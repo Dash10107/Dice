@@ -39,3 +39,25 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.buttons{
+  text-align: center;
+}
+
+.start-button {
+  margin: 7% 10%  ;
+
+}
+
+
+.result{
+  visibility: hidden;
+  
+}
+.scores{
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  padding: 5% 7%;
+}
