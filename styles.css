@@ -48,7 +48,9 @@ footer {
   margin: 7% 10%  ;
 
 }
-
+.end-button {
+ visibility: hidden;
+}
 
 .result{
   visibility: hidden;
@@ -61,3 +63,4 @@ footer {
   font-size: 2rem;
   padding: 5% 7%;
 }
+
